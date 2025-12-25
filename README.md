@@ -85,7 +85,7 @@ cargo build --release
 
 ## ライセンス
 
-<!-- TODO: ライセンスを追加してください -->
+MIT License
 
 ## 作者
 
